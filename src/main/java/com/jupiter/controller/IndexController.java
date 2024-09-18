@@ -10,6 +10,6 @@ public class IndexController {
 
     @GetMapping("/")
     public String toIndex(){
-        return "hello hi hi hi hinew hello";
+        return "the hehehehehehehe hiiiiiii";
     }
 }
